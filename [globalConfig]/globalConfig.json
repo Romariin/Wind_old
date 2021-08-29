@@ -1,0 +1,27 @@
+{
+    "token": "XXXX",
+    "defaultPrefix": "w!",
+
+    "mainGuild": "XXXX",
+
+    "ownerID": ["XXXX", "XXXX"],
+
+    "messageListeners": [],
+
+    "exp": {
+        "enabled": true,
+        "formulaCoeff": 40,
+        "gainTimeout": 20,
+        "cmdMsgExp": [0, 3],
+        "shortMsgExp": [4, 6],
+        "longMsgExp": [8, 10]
+    },
+
+    "mysql": {
+        "host": XXX.X.X.X",
+        "port": XXXX,
+        "user": "XXXX",
+        "pass": "XXXX",
+        "db": "XXXX"
+    }
+}

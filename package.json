@@ -1,0 +1,25 @@
+{
+  "name": "Wind",
+  "version": "1.0.0",
+  "description": "Wind is a multi-functionnal discord bot",
+  "main": "wind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romarin",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "chalk": "^4.1.0",
+    "discord.js": "github:monbrey/discord.js#inline-replies",
+    "fs": "0.0.1-security",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.6",
+    "ordinal": "^1.0.3",
+    "path": "^0.12.7",
+    "ping-lite": "^2.0.2",
+    "util": "^0.12.3"
+  }
+}
